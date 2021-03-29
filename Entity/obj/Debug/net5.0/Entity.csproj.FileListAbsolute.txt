@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\BilicraWork\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\Users\admin\Desktop\BilicraWork\Entity\bin\Debug\net5.0\Entity.dll
+C:\Users\admin\Desktop\BilicraWork\Entity\bin\Debug\net5.0\ref\Entity.dll
+C:\Users\admin\Desktop\BilicraWork\Entity\bin\Debug\net5.0\Entity.pdb
+C:\Users\admin\Desktop\BilicraWork\Entity\obj\Debug\net5.0\Entity.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\BilicraWork\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\BilicraWork\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\BilicraWork\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\Users\admin\Desktop\BilicraWork\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\BilicraWork\Entity\obj\Debug\net5.0\Entity.dll
+C:\Users\admin\Desktop\BilicraWork\Entity\obj\Debug\net5.0\ref\Entity.dll
+C:\Users\admin\Desktop\BilicraWork\Entity\obj\Debug\net5.0\Entity.pdb
+C:\Users\admin\Desktop\BilicraWork\Entity\bin\Debug\net5.0\Entity.runtimeconfig.json
+C:\Users\admin\Desktop\BilicraWork\Entity\bin\Debug\net5.0\Entity.runtimeconfig.dev.json
+C:\Users\admin\Desktop\BilicraWork\Entity\obj\Debug\net5.0\Entity.genruntimeconfig.cache
